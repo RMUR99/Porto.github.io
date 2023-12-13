@@ -24,6 +24,6 @@ function redirectToLink() {
   }
 
   function redirectToLinkThird() {
-    window.location.href = "https://github.com/RMUR99/Image-Controller"; // Replace with your desired link
+    window.location.href = "https://github.com/RMUR99/GPT"; // Replace with your desired link
   }
 
